@@ -8,4 +8,4 @@ A way to generate nice looking text or PDF logs of SMS conversations exported fr
 
 ## LICENSE
 
-This project is released under the [http://www.opensource.org/licenses/mit-license.php](MIT License)
+This project is released under the (http://www.opensource.org/licenses/mit-license.php)[MIT License]
